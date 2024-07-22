@@ -1,0 +1,252 @@
+[
+  {
+    "Id": 1,
+    "Name": "Dior",
+    "Products": [
+      {
+        "Id": "P001",
+        "BrandId": 1,
+        "ProductName": "Dior Sauvage",
+        "GraphicName": "sauvage.jpg",
+        "CostPrice": 75.00,
+        "MSRP": 95.00,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 5,
+        "Description": "Dior Sauvage is a fresh and spicy scent, perfect for a bold and adventurous spirit."
+      },
+      {
+        "Id": "P002",
+        "BrandId": 1,
+        "ProductName": "Dior J'adore",
+        "GraphicName": "jadore.jpg",
+        "CostPrice": 85.00,
+        "MSRP": 110.00,
+        "QtyOnHand": 150,
+        "QtyOnBackOrder": 10,
+        "Description": "Dior J'adore is a floral fragrance that embodies absolute femininity."
+      },
+      {
+        "Id": "P003",
+        "BrandId": 1,
+        "ProductName": "Dior Miss Dior",
+        "GraphicName": "missdior.jpg",
+        "CostPrice": 90.00,
+        "MSRP": 115.00,
+        "QtyOnHand": 200,
+        "QtyOnBackOrder": 15,
+        "Description": "Miss Dior is a sweet and romantic fragrance with notes of rose and patchouli."
+      },
+      {
+        "Id": "P004",
+        "BrandId": 1,
+        "ProductName": "Dior Homme",
+        "GraphicName": "homme.jpg",
+        "CostPrice": 80.00,
+        "MSRP": 100.00,
+        "QtyOnHand": 120,
+        "QtyOnBackOrder": 20,
+        "Description": "Dior Homme is a sophisticated and modern scent with a woody base."
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Marc Jacobs",
+    "Products": [
+      {
+        "Id": "P005",
+        "BrandId": 2,
+        "ProductName": "Marc Jacobs Daisy",
+        "GraphicName": "daisy.jpg",
+        "CostPrice": 65.00,
+        "MSRP": 85.00,
+        "QtyOnHand": 110,
+        "QtyOnBackOrder": 10,
+        "Description": "Marc Jacobs Daisy is a fresh and feminine fragrance with a playful vibe."
+      },
+      {
+        "Id": "P006",
+        "BrandId": 2,
+        "ProductName": "Marc Jacobs Decadence",
+        "GraphicName": "decadence.jpg",
+        "CostPrice": 95.00,
+        "MSRP": 120.00,
+        "QtyOnHand": 90,
+        "QtyOnBackOrder": 5,
+        "Description": "Decadence by Marc Jacobs is a luxurious and sensual fragrance for special occasions."
+      },
+      {
+        "Id": "P007",
+        "BrandId": 2,
+        "ProductName": "Marc Jacobs Perfect",
+        "GraphicName": "perfect.jpg",
+        "CostPrice": 75.00,
+        "MSRP": 95.00,
+        "QtyOnHand": 130,
+        "QtyOnBackOrder": 12,
+        "Description": "Perfect by Marc Jacobs is a bright and optimistic scent with floral and fruity notes."
+      },
+      {
+        "Id": "P008",
+        "BrandId": 2,
+        "ProductName": "Marc Jacobs Honey",
+        "GraphicName": "honey.jpg",
+        "CostPrice": 70.00,
+        "MSRP": 90.00,
+        "QtyOnHand": 140,
+        "QtyOnBackOrder": 7,
+        "Description": "Honey by Marc Jacobs is a sweet and sunny fragrance that exudes warmth."
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Giorgio Armani",
+    "Products": [
+      {
+        "Id": "P009",
+        "BrandId": 3,
+        "ProductName": "Armani Code",
+        "GraphicName": "armani_code.jpg",
+        "CostPrice": 85.00,
+        "MSRP": 110.00,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 8,
+        "Description": "Armani Code is a mysterious and sophisticated fragrance for the modern man."
+      },
+      {
+        "Id": "P010",
+        "BrandId": 3,
+        "ProductName": "Acqua di Gio",
+        "GraphicName": "acqua_di_gio.jpg",
+        "CostPrice": 70.00,
+        "MSRP": 90.00,
+        "QtyOnHand": 150,
+        "QtyOnBackOrder": 15,
+        "Description": "Acqua di Gio is a fresh and aquatic scent inspired by the Mediterranean."
+      },
+      {
+        "Id": "P011",
+        "BrandId": 3,
+        "ProductName": "Si",
+        "GraphicName": "si.jpg",
+        "CostPrice": 95.00,
+        "MSRP": 120.00,
+        "QtyOnHand": 120,
+        "QtyOnBackOrder": 12,
+        "Description": "Si by Giorgio Armani is a chic and elegant fragrance with a deep, woody base."
+      },
+      {
+        "Id": "P012",
+        "BrandId": 3,
+        "ProductName": "Emporio Armani",
+        "GraphicName": "emporio.jpg",
+        "CostPrice": 75.00,
+        "MSRP": 100.00,
+        "QtyOnHand": 140,
+        "QtyOnBackOrder": 9,
+        "Description": "Emporio Armani is a fresh and spicy fragrance perfect for everyday wear."
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "Jo Malone London",
+    "Products": [
+      {
+        "Id": "P013",
+        "BrandId": 4,
+        "ProductName": "Lime Basil & Mandarin",
+        "GraphicName": "lime_basil_mandarin.jpg",
+        "CostPrice": 80.00,
+        "MSRP": 100.00,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 10,
+        "Description": "Lime Basil & Mandarin is a fresh and zesty fragrance with an aromatic twist."
+      },
+      {
+        "Id": "P014",
+        "BrandId": 4,
+        "ProductName": "English Pear & Freesia",
+        "GraphicName": "english_pear_freesia.jpg",
+        "CostPrice": 85.00,
+        "MSRP": 110.00,
+        "QtyOnHand": 110,
+        "QtyOnBackOrder": 5,
+        "Description": "English Pear & Freesia is a light and fruity scent that is both elegant and refreshing."
+      },
+      {
+        "Id": "P015",
+        "BrandId": 4,
+        "ProductName": "Peony & Blush Suede",
+        "GraphicName": "peony_blush_suede.jpg",
+        "CostPrice": 90.00,
+        "MSRP": 115.00,
+        "QtyOnHand": 130,
+        "QtyOnBackOrder": 12,
+        "Description": "Peony & Blush Suede is a floral fragrance with notes of peony, red apple, and suede."
+      },
+      {
+        "Id": "P016",
+        "BrandId": 4,
+        "ProductName": "Wood Sage & Sea Salt",
+        "GraphicName": "wood_sage_sea_salt.jpg",
+        "CostPrice": 80.00,
+        "MSRP": 100.00,
+        "QtyOnHand": 120,
+        "QtyOnBackOrder": 7,
+        "Description": "Wood Sage & Sea Salt is a fresh and woody scent inspired by the coast."
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "Tom Ford",
+    "Products": [
+      {
+        "Id": "P017",
+        "BrandId": 5,
+        "ProductName": "Tom Ford Black Orchid",
+        "GraphicName": "black_orchid.jpg",
+        "CostPrice": 100.00,
+        "MSRP": 125.00,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 15,
+        "Description": "Black Orchid is a luxurious and sensual fragrance with rich dark accords."
+      },
+      {
+        "Id": "P018",
+        "BrandId": 5,
+        "ProductName": "Tom Ford Oud Wood",
+        "GraphicName": "oud_wood.jpg",
+        "CostPrice": 120.00,
+        "MSRP": 150.00,
+        "QtyOnHand": 110,
+        "QtyOnBackOrder": 10,
+        "Description": "Oud Wood is a rare, exotic, and distinctive fragrance with oud wood."
+      },
+      {
+        "Id": "P019",
+        "BrandId": 5,
+        "ProductName": "Tom Ford Tobacco Vanille",
+        "GraphicName": "tobacco_vanille.jpg",
+        "CostPrice": 110.00,
+        "MSRP": 140.00,
+        "QtyOnHand": 90,
+        "QtyOnBackOrder": 5,
+        "Description": "Tobacco Vanille is a warm and spicy fragrance that exudes opulence and sophistication."
+      },
+      {
+        "Id": "P020",
+        "BrandId": 5,
+        "ProductName": "Tom Ford Neroli Portofino",
+        "GraphicName": "neroli_portofino.jpg",
+        "CostPrice": 95.00,
+        "MSRP": 120.00,
+        "QtyOnHand": 120,
+        "QtyOnBackOrder": 8,
+        "Description": "Neroli Portofino is a vibrant, sparkling, and transportive fragrance with notes of citrus and floral."
+      }
+    ]
+  }
+]
